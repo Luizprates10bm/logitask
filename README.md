@@ -9,3 +9,6 @@ Sistema de Gerenciamento de Tarefas Logísticas desenvolvido para otimização d
 * H2 Database (Ambiente de Testes)
 * JUnit 5 (Testes Automatizados)
 * GitHub Actions (Integração Contínua)
+
+## Atualizações Recentes
+* **Mudança de Escopo:** Adicionado suporte ao rastreamento de frotas através do vínculo da placa do veículo nas tarefas de logística.
